@@ -1,6 +1,6 @@
-I'm still practicing Git.At first, it looks like a quite complicated system to learn and grasp, but once you've got it, 
-it becomes even interesting to work with. To the best of knowledge, there are two Version Control Systems. The first one is
-Centralised and the other one which is Git is Distributed. The advantage of Git is that you don't have to always apply to 
-the main server and copy main repo, you can create a branch, clone any file you would like to work with and that's it. I 
+I'm still practicing Git. At first, it looks like a quite complicated system to learn and grasp, but once you've got it, 
+it becomes even more interesting to work with. To the best of my knowledge, there are two Version Control Systems. The first one is
+Centralized and the other one which is Git is Distributed. The advantage of Git is that you don't have to always apply to 
+the main server and copy the main repo, you can create a branch, then clone any file you would like to work with and that's it. I 
 might mistake as I'm learning how to use Git, but I hope that I become much fluent in Git by the end of the course which
-I'm taking now. 
+I'm taking. 
