@@ -4,3 +4,5 @@ Centralized and the other one which is Git is Distributed. The advantage of Git 
 the main server and copy the main repo, you can create a branch, then clone any file you would like to work with and that's it. I 
 might mistake as I'm learning how to use Git, but I hope that I become much fluent in Git by the end of the course which
 I'm taking. 
+
+Now, I'm adding another message to my secondary branch.
